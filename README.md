@@ -2,7 +2,7 @@
 
 **Room:** [How Websites Work — TryHackMe](https://tryhackme.com/room/howwebsiteswork)  
 **Status:** ✅ Completed  
-**Date:** 23 April 2025
+**Date:** *(23 April 2025)*
 
 ### 🎯 Objective
 This room introduced how websites function from both the front and back end. The goal was to understand how browsers communicate with servers, how HTML, CSS, and JavaScript come together to build pages, and how poor coding practices can expose vulnerabilities like HTML injection or sensitive data leakage.
